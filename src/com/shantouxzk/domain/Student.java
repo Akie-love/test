@@ -4,15 +4,8 @@ public class Student {
     private Integer id;
     private String name;
     private Integer age;
-    private String phone;
+    private String addr;
 
-    public String getPhone() {
-        return phone;
-    }
-
-    public void setPhone(String phone) {
-        this.phone = phone;
-    }
 
     public Student() {
     }
